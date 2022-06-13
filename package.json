@@ -1,0 +1,15 @@
+{
+  "name": "@joelhagg/emoji",
+  "version": "1.0.1",
+  "description": "Replaces words with emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "rebus"
+  ],
+  "author": "joel hagg",
+  "license": "ISC"
+}
